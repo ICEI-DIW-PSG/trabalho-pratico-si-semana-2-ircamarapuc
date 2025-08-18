@@ -3,9 +3,12 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Izabela Ribeiro Camara
+- Matricula: 737464
 
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print um](printum.png)
+![Print dois](printdois.png)
+![Print tres](printtres.png)
